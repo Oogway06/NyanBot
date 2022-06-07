@@ -22,7 +22,7 @@
   </a>
 
 ```bash
-> git clone https://github.com/IDBQ/oogwatbot
+> git clone https://github.com/IDBQ/oogwaybot
 ```
 
 ## Inicia la Instalacion:
